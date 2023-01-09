@@ -1,4 +1,4 @@
-# ASSESSMENT AND IMPROVEMENT CYCLE
+# DNN ASSESSMENT AND IMPROVEMENT CYCLE (DAIC)
 
 This repository is the replication package related to a NEAR 2023 submission.
 In this repository, the code to repeat the experiments is available.
